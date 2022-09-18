@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinFisherManBook</string>
+    <string name="fish">рыбы</string>
+    <string name="na">наживки</string>
+    <string name="sna">снасти</string>
+    <string name="history">история</string>
+</resources>
